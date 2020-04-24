@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29505.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Test_Localization", "Test_Localization\Test_Localization.pyproj", "{A0BA6B33-C12A-4411-B8A1-B36912ED318D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0BA6B33-C12A-4411-B8A1-B36912ED318D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BA6B33-C12A-4411-B8A1-B36912ED318D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA649D0-2029-4AC4-B677-2600BA387825}
+	EndGlobalSection
+EndGlobal
